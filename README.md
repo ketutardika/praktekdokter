@@ -1,2 +1,2 @@
 # praktekdokter
-Sistem Informasi Praktek Dokter
+Sistem Informasi Rekam Medis Praktek Dokter
